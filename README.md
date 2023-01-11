@@ -1,4 +1,4 @@
-# ex11
+# website to algorithm
 link to web: [157.230.22.122:9256](http://157.230.22.122:9256/)
 
 ![1](https://user-images.githubusercontent.com/74509202/211906910-891d1ced-49e3-478d-a501-3b34203fa715.jpeg)
